@@ -1,0 +1,5 @@
+﻿=== start_all.ps1 log - 2025-08-29T15:32:58.9530469-03:00 ===
+[STARTED] xss (PID 34132) -> C:\Users\gabri\OneDrive\Documentos\Criando um Agente para Detecção de Vulnerabilidades em Arquiteturas\app_vulneravel\xss\app.py
+[STARTED] auth_fraca (PID 25696) -> C:\Users\gabri\OneDrive\Documentos\Criando um Agente para Detecção de Vulnerabilidades em Arquiteturas\app_vulneravel\auth_fraca\app.py
+[STARTED] config_insegura (PID 15112) -> C:\Users\gabri\OneDrive\Documentos\Criando um Agente para Detecção de Vulnerabilidades em Arquiteturas\app_vulneravel\config_insegura\app.py
+=== done at 2025-08-29T15:33:22.0348905-03:00 ===
